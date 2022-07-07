@@ -28,6 +28,7 @@ public class Form {
     static ContTest contTest = Tetris.cont;
     private static final Score score = new Score();
 
+    // saya ganti
     //CONSTRUCTOR
     Form(Pane pane, String name){
         System.out.println("speed = "+ContTest.t);
